@@ -24,11 +24,25 @@ Here are some ideas to get you started:
 
 ## Contact Me
 <span>&#128231;</span> Business Email Address: josewebdev@proton.me<br>
-<span>&#128231;</span> Freelancer Email Address: josewebdev@proton.me 
+<span>&#128231;</span> Freelancer Email Address: josefreelancerwebdev@proton.me 
 
 ## Relevant Profiles
 <div>
-  
+  <a href="https://www.upwork.com/freelancers/~01a56229c98da68f05" target="_blank">
+    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork Logo">
+  </a>
+  <br>
+  <a href="https://www.fiverr.com/josewebdev2000?up_rollout=true">
+    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr Logo">
+  </a>
+  <br>
+  <a href="https://www.hackerrank.com/jjbrach4" target="_blank">
+    <img src="https://img.shields.io/badge/Hackerrank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Hackerrank Logo">
+  </a>
+  <br>
+  <a href="https://www.hackerearth.com/@josewebdev" target="_blank">
+    <img src="https://img.shields.io/badge/Hackerearth-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white" alt="HackerEarth Logo">
+  </a>
 </div>
 
 
