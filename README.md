@@ -40,6 +40,9 @@ Here are some ideas to get you started:
   <a href="https://www.hackerearth.com/@josewebdev" target="_blank">
     <img src="https://img.shields.io/badge/Hackerearth-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white" alt="HackerEarth Logo">
   </a>
+  <a href="https://medium.com/@josewebdev">
+    <img src="https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Logo">
+  </a>
 </div>
 
 ## Skillset
