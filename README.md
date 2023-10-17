@@ -64,6 +64,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Mongo%20DB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongo DB Badge">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge">
   <img src="https://rb.gy/rzmqe" alt="Matplotlib Badge">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Badge">
+  <img src="https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="GNU Bash Badge">
 </div>
 
 
