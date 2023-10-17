@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   <a href="https://www.upwork.com/freelancers/~01a56229c98da68f05" target="_blank">
     <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork Logo">
   </a>
-  <a href="https://www.fiverr.com/josewebdev2000?up_rollout=true">
+  <a href=" https://www.fiverr.com/josewebdev2000">
     <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr Logo">
   </a>
   <a href="https://www.hackerrank.com/jjbrach4" target="_blank">
