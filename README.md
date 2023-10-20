@@ -28,25 +28,25 @@ Here are some ideas to get you started:
 
 ## Relevant Profiles
 <div>
-  <a href="https://www.upwork.com/freelancers/~01a56229c98da68f05" style="text-decoration: none;" target="_blank">
+  <a href="https://www.upwork.com/freelancers/~01a56229c98da68f05" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork Logo">
   </a>
-  <a href="https://www.fiverr.com/josewebdev2000" style="text-decoration: none;" target="_blank">
+  <a href="https://www.fiverr.com/josewebdev2000" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr Logo">
   </a>
-  <a href="https://www.hackerrank.com/jjbrach4" style="text-decoration: none;" target="_blank">
+  <a href="https://www.hackerrank.com/jjbrach4" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Hackerrank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Hackerrank Logo">
   </a>
-  <a href="https://www.hackerearth.com/@josewebdev" style="text-decoration: none;" target="_blank">
+  <a href="https://www.hackerearth.com/@josewebdev" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Hackerearth-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white" alt="HackerEarth Logo">
   </a>
-  <a href="https://devpost.com/josewebdev2000" style="text-decoration: none;" target="_blank">
+  <a href="https://devpost.com/josewebdev2000" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost Logo">
   </a>
-  <a href="https://medium.com/@josewebdev" style="text-decoration: none;" target="_blank">
+  <a href="https://medium.com/@josewebdev" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Logo">
   </a>
-  <a href="https://www.youtube.com/@josebrache1622" style="text-decoration: none;" target="_blank">
+  <a href="https://www.youtube.com/@josebrache1622" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Logo">
   </a>
 </div>
