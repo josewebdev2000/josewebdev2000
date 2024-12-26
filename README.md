@@ -26,8 +26,9 @@ Here are some ideas to get you started:
 - I am a Full-Stack Web Developer with a preference for Back-End Development <span>&#128187;</span>
 
 ## Contact Me
-<span>&#128231;</span> Business/Personal Email Address: josewebdev@proton.me
-<span>&#128231;</span> Freelancer Email Address: josefreelancerwebdev@proton.me 
+<span>&#128231;</span> Primary Email Address: jjbrach4@gmail.com<br/>
+<span>&#128231;</span> Secondary Email Address: josewebdev@proton.me<br/>
+<span>&#128231;</span> Freelancing Email Address: josefreelancerwebdev@proton.me 
 
 ## Relevant Profiles
 <div>
