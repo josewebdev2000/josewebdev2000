@@ -20,10 +20,12 @@ Here are some ideas to get you started:
 </h1>
 
 - I am Jose Brache Garcia 😄
-- I love computer programming and software development <span>&#128187;</span>
+- I hold an Associate's Degree in Computer Programming and Analysis
+- I am currently pursuing a Bachelor's Degree in Computing Technology and Software Development
+- I am a Full-Stack Web Developer with a preference for Back-End Development <span>&#128187;</span>
 
 ## Contact Me
-<span>&#128231;</span> Business/Personal Email Address: josewebdev@proton.me<br>
+<span>&#128231;</span> Business/Personal Email Address: josewebdev@proton.me
 <span>&#128231;</span> Freelancer Email Address: josefreelancerwebdev@proton.me 
 
 ## Relevant Profiles
@@ -68,8 +70,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge">
   <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge">
   <img src="https://img.shields.io/badge/Mongo%20DB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongo DB Badge">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge">
-  <img src="https://rb.gy/rzmqe" alt="Matplotlib Badge">
+  <img src="https://img.shields.io/badge/.net-512BD4?style=for-the-badge&logo=dotnet&logoColor=#512BD4" alt=".NET Badge">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Badge">
   <img src="https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="GNU Bash Badge">
 </div>
