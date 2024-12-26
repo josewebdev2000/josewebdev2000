@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 </h1>
 
 - I am Jose Brache Garcia 😄
+- I participated as a volunteer in the <a href="https://openopps.usajobs.gov/tasks/6129" target="_blank">Text2Serve</a> project of the Department of Veteran Affairs of the United States of America
 - I hold an Associate's Degree in Computer Programming and Analysis
 - I am currently pursuing a Bachelor's Degree in Computing Technology and Software Development
 - I am a Full-Stack Web Developer with a preference for Back-End Development <span>&#128187;</span>
