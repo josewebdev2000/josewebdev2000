@@ -50,9 +50,6 @@ Here are some ideas to get you started:
   <a href="https://medium.com/@josewebdev" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Logo">
   </a>
-  <a href="https://www.youtube.com/@josebrache1622" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Logo">
-  </a>
   <a href="https://www.linkedin.com/in/jose-brache-garcia/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/linkedin-1477D1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Logo">
   </a>
