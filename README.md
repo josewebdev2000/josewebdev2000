@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 ## Contact Me
 <span>&#128231;</span> Primary Email Address: jjbrach4@gmail.com<br/>
 <span>&#128231;</span> Secondary Email Address: josewebdev@proton.me<br/>
-<span>&#128231;</span> Freelancing Email Address: josefreelancerwebdev@proton.me 
 
 ## Relevant Profiles
 <div>
