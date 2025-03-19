@@ -20,10 +20,8 @@ Here are some ideas to get you started:
 </h1>
 
 - I am Jose Brache Garcia 😄
-- I participated as a volunteer in the <a href="https://openopps.usajobs.gov/tasks/6129" target="_blank">Text2Serve</a> project of the Department of Veteran Affairs of the United States of America
 - I hold an Associate's Degree in Computer Programming and Analysis
 - I am currently pursuing a Bachelor's Degree in Computing Technology and Software Development
-- I am a Full-Stack Web Developer with a preference for Back-End Development <span>&#128187;</span>
 
 ## Contact Me
 <span>&#128231;</span> Primary Email Address: jjbrach4@gmail.com<br/>
@@ -31,21 +29,6 @@ Here are some ideas to get you started:
 
 ## Relevant Profiles
 <div>
-  <a href="https://www.upwork.com/freelancers/~01a56229c98da68f05" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork Logo">
-  </a>
-  <a href="https://www.fiverr.com/josewebdev2000" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr Logo">
-  </a>
-  <a href="https://www.hackerrank.com/jjbrach4" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Hackerrank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Hackerrank Logo">
-  </a>
-  <a href="https://www.hackerearth.com/@josewebdev" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Hackerearth-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white" alt="HackerEarth Logo">
-  </a>
-  <a href="https://devpost.com/josewebdev2000" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost Logo">
-  </a>
   <a href="https://medium.com/@josewebdev" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Logo">
   </a>
